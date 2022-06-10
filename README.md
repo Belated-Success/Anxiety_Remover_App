@@ -1,9 +1,9 @@
                             𝓐𝓷𝔁𝓲𝓮𝓽𝔂 𝓡𝓮𝓶𝓸𝓿𝓮𝓻 𝓐𝓹𝓹 
  𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲:
- 1.Flutter https://icons8.com/icon/7I3BjCqe9rjG/flutter
- 2.Github https://icons8.com/icon/106562/github
- 3.Firebase https://icons8.com/icon/62452/firebase
- 4.Google Api ![image](https://user-images.githubusercontent.com/74767290/173135120-da144e34-56fb-40bc-8a50-bca8a470a3b1.png)
+ 1.Flutter ![icons8-flutter-16](https://user-images.githubusercontent.com/74767290/173135384-51227fb8-9024-4e9f-abfe-980523588e28.png)
+ 2.Github ![icons8-github-16](https://user-images.githubusercontent.com/74767290/173135403-fbe5c280-0f16-4393-82cc-c43a4b66072e.png)
+ 3.Firebase ![icons8-google-firebase-console-16](https://user-images.githubusercontent.com/74767290/173135421-39e6a81e-a55c-40b1-886c-c74878a89ca9.png)
+ 4.Google Api ![icons8-rest-api-16](https://user-images.githubusercontent.com/74767290/173135441-04719044-2507-4c4a-9687-46e988704b25.png)
 
 ![Screenshot_1654887413](https://user-images.githubusercontent.com/74767290/173134172-3341fa78-2564-4ae8-9316-0e0fab92033f.png)
 ![Screenshot_1654887419](https://user-images.githubusercontent.com/74767290/173134178-d8f0fda7-f143-4014-afb7-60ed78a7ea2c.png)
