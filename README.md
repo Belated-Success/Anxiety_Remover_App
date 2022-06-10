@@ -1,4 +1,9 @@
                             𝓐𝓷𝔁𝓲𝓮𝓽𝔂 𝓡𝓮𝓶𝓸𝓿𝓮𝓻 𝓐𝓹𝓹 
+                            
+ Background                      
+"Memories shape our relationships , our experiences and our sense of self."
+
+In a world occupied by technology every solution for problems owes its root to the tech. Needless to say, every milestone we achieved so far is backed up by a technology We believe that it is our responsibility to make lives swift for those people who deserve a chance .That’s why we came up with a solution that could lift the spirits of people struggling with long-term memory disorders.Dementia are presenting the human race with one of its toughest challenges. It is currently the seventh leading cause of death among all diseases and one of the major causes of disability and dependency among older people globally. Patients with this disease need a caregiver , who is often a family member , to manage their daily tasks. This takes a great toll on both the caregiver , who is higher risk for depression, high stress levels. To alleviate these kinds of problem we wanted to create an much easier way for patients and also caregivers.
  𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲:
  1.Flutter ![icons8-flutter-16](https://user-images.githubusercontent.com/74767290/173135384-51227fb8-9024-4e9f-abfe-980523588e28.png)
  2.Github ![icons8-github-16](https://user-images.githubusercontent.com/74767290/173135403-fbe5c280-0f16-4393-82cc-c43a4b66072e.png)
