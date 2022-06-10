@@ -1,4 +1,9 @@
-An open-source, cross-platform, TOTP-based Authenticator for android and ios.
+                            𝓐𝓷𝔁𝓲𝓮𝓽𝔂 𝓡𝓮𝓶𝓸𝓿𝓮𝓻 𝓐𝓹𝓹 
+ 𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲:
+ 1.Flutter https://icons8.com/icon/7I3BjCqe9rjG/flutter
+ 2.Github https://icons8.com/icon/106562/github
+ 3.Firebase https://icons8.com/icon/62452/firebase
+ 4.Google Api https://img.icons8.com/color-glass/2x/api-settings.png
 
 ![Screenshot_1654887413](https://user-images.githubusercontent.com/74767290/173134172-3341fa78-2564-4ae8-9316-0e0fab92033f.png)
 ![Screenshot_1654887419](https://user-images.githubusercontent.com/74767290/173134178-d8f0fda7-f143-4014-afb7-60ed78a7ea2c.png)
